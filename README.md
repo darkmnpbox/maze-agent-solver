@@ -17,8 +17,8 @@
             [1,0,1,0,1,0,1,0,1,0],
             [1,0,1,0,1,0,0,0,1,0]
         ]
-<img src="maze.png" width=180 />
+<img src="maze.png" width=256 />
         - start at given index, goal-3, agent current - 4 
 
 ### Demo
-<video src='maze.avi' width=180 />
+<img src="maze.gif" width=256 />
