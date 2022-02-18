@@ -17,5 +17,5 @@
             [1,0,1,0,1,0,1,0,1,0],
             [1,0,1,0,1,0,0,0,1,0]
         ]
-        <img src="maze.png"/>
+<img src="maze.png"/>
         - start at given index, goal-3, agent current - 4 
